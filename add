@@ -1,0 +1,8 @@
+# kommentar
+00 START
+02 IN 1
+03 STORE 10
+04 IN 1
+10 ADD 10
+15 OUT 2
+20 STOP
